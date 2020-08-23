@@ -3,7 +3,6 @@ I am a Third Year Computer Science & Engineering Student from Nutan College Of E
 I am contributing to few opensource projects.<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharur7" alt="sharur7" /> </p> 
-[![forthebadge](https://img.shields.io/github/followers/sharur7?label=GitHub&style=social)](https://github.com/sharur7)
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aree_yarr_sharu) 
