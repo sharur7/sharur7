@@ -17,6 +17,7 @@ I am contributing to few opensource projects.<br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
 [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+[![Vuforia](https://img.shields.io/badge/Vuforia-57b9d3.svg?style=flat&logo=vuforia)](https://developer.vuforia.com)
 
 ###### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
