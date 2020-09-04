@@ -34,7 +34,7 @@ Looking forward for more contributions!<br>
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=flat-square&logo=anaconda)
 ![Colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google_colab)
 
-### Some of my GitHub Stats
+### Some of my GitHub Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sharur7&show_icons=true&theme=tokyonight&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharur7&theme=tokyonight">
