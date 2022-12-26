@@ -1,6 +1,6 @@
 # Hey there<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Sharvari Raut.
-I am a Third Year Computer Science & Engineering Student from Nutan College Of Engineering And Research.<br>
-I am contributing to few opensource projects.<br>
+I am a FY M.Tech student Computer Engineering Student from COEP.<br>
+I am contributing to few opensource projects from past few years.<br>
 Looking forward for more contributions!<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharur7" alt="sharur7" /> </p> 
