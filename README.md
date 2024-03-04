@@ -1,5 +1,5 @@
 # Hey there<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Sharvari Raut.
-I am a FY M.Tech student Computer Engineering Student from COEP.<br>
+I am a SY M.Tech student Computer Engineering Student from COEP.<br>
 I am contributing to few opensource projects from past few years.<br>
 Looking forward for more contributions!<br>
 
@@ -8,8 +8,8 @@ Looking forward for more contributions!<br>
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aree_yarr_sharu) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharvari-raut-a62a99171/) 
-[<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aree_yarr_sharoo/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100008971655135)
+[<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact.sharuraut7@gmail.com)
 [<img src ="https://img.shields.io/badge/Quora-%23E4405F.svg?&style=for-the-badge&logo=quora&logoColor=red%22">](https://www.quora.com/profile/Sharvari-Raut-5)
 [<img src ="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sharur7)
