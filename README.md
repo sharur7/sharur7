@@ -22,14 +22,14 @@ You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with
 
 Here’s where I flaunt my finest work in ML/AI applications. Dive in, explore, and prepare to be amazed (or at least mildly impressed)!
 
-- **[🌏 Wander Plan](https://github.com/your-username/project-1):** It’s like a Swiss Army knife for [project purpose] – versatile and handy!
-- **[TubeNote 📝](https://github.com/your-username/project-2):** Where [describe project] meets innovation. Who knew [something cool about the project] could be so exciting?
-- **[Offence Sheild ❎](https://github.com/your-username/project-3):** My take on [project type] that’ll make you rethink everything you know about [related topic]!
+- **[Wander Plan 🌏](https://wanderplan.streamlit.app/):** Unleash the ultimate travel wizardry with Wander Plan where your dream itinerary is crafted by the genius of AI, making every trip unforgettable!
+- **[TubeNote 📝](https://tubenote.streamlit.app/):** Summarize any YouTube video effortlessly to get the gist without watching the whole thing!
+- **[Offence Sheild ❎](https://offenceshield.vercel.app/):** Type away and let Offence Shield instantly detect if your sentences are friendly or foul your, real-time guide to keeping conversations respectful!
 
 ## 📚 Publications & Blog
 
-- [Create Pipeline To Build & Deploy Python Web Application To Azure](https://sharur7.medium.com/create-pipeline-to-build-deploy-python-web-application-to-azure-eb71c14a34b3)
-- [How Walmart Uses Data Science](https://sharur7.medium.com/how-walmart-uses-data-science-e82e707d0a1b)
+- [Create Pipeline To Build & Deploy Python Web Application To Azure](https://sharur7.medium.com/create-pipeline-to-build-deploy-python-web-application-to-azure-eb71c14a34b3) 🔩
+- [How Walmart Uses Data Science](https://sharur7.medium.com/how-walmart-uses-data-science-e82e707d0a1b) 🛒
 
 ## 🌐 Connect with Me
 
