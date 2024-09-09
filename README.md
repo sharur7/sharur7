@@ -1,39 +1,54 @@
-# Hey there<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Sharvari Raut.
-I am a SY M.Tech student Computer Engineering Student from COEP.<br>
-I am contributing to few opensource projects from past few years.<br>
-Looking forward for more contributions!<br>
+# Hey There<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>🌟 Welcome to Sharvari's Data Science & ML Playground! 🌟
+Hey there! I’m [Your Name], a data enthusiast who spends their days turning numbers into narratives and algorithms into artistry. <br>
+You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with data and make machine-learning models do the cha-cha! 💃
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharur7" alt="sharur7" /> </p> 
 
-#### Connect with me on - 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aree_yarr_sharu) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharvari-raut-a62a99171/) 
-[<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact.sharuraut7@gmail.com)
-[<img src ="https://img.shields.io/badge/Quora-%23E4405F.svg?&style=for-the-badge&logo=quora&logoColor=red%22">](https://www.quora.com/profile/Sharvari-Raut-5)
-[<img src ="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sharur7)
 
-###### Tech Stacks
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
-[![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
-[![Vuforia](https://img.shields.io/badge/Vuforia-57b9d3.svg?style=flat&logo=vuforia)](https://developer.vuforia.com)
-![Flask](https://img.shields.io/badge/-Flask-red?style=flat-square&logo=flask)
 
-###### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 
-###### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=firebase)
-![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=flat-square&logo=anaconda)
-![Colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google_colab)
+
+
+
+![Courage the Cowardly Dog](https://media.giphy.com/media/xT9IgJ6A5z1IOUMdcM/giphy.gif)
+
+## 🛠️ Skills & Expertise
+
+- **Data Analysis:** Python, R, SQL, Excel (I can make a pivot table dance!)
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch (Turning data into magic with algorithms!)
+- **Deep Learning:** CNNs, RNNs, Transformers (My models are as deep as my coffee intake!)
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau (Turning boring data into beautiful visuals!)
+- **Cloud Platforms:** AWS, Azure, Google Cloud (Making sure my data doesn’t get lost in the ether!)
+- **DevOps & Tools:** Docker, Git (Keeping everything containerized and version-controlled!)
+
+## 🚀 Projects
+
+Here’s where I flaunt my finest work. Dive in, explore, and prepare to be amazed (or at least mildly impressed)!
+
+- **[Project Name 1](https://github.com/your-username/project-1):** It’s like a Swiss Army knife for [project purpose] – versatile and handy!
+- **[Project Name 2](https://github.com/your-username/project-2):** Where [describe project] meets innovation. Who knew [something cool about the project] could be so exciting?
+- **[Project Name 3](https://github.com/your-username/project-3):** My take on [project type] that’ll make you rethink everything you know about [related topic]!
+
+## 📚 Publications & Blog
+
+- **[Blog Post Title 1](https://your-blog.com/post-1):** My two cents on [blog topic] – because who doesn’t love a good data rant?
+- **[Publication Title 2](https://your-research-paper.com):** An academic deep dive into [research topic]. Spoiler: It’s as thrilling as it sounds!
+
+## 🌐 Connect with Me
+
+Let’s make the data world a smaller place! Reach out if you want to discuss algorithms, analytics, or just want to swap memes.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+
+## 🔧 How to Reach Out
+
+I’m always open to new ideas, collaborations, and a good old data debate. Feel free to open issues, submit pull requests, or just send a friendly hello!
+
+Happy coding and may your data always be clean! 🚀
+
 
 ### Some of my GitHub Stats:
 <p>
