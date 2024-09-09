@@ -20,11 +20,11 @@ You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with
 
 ## 🚀 Projects
 
-Here’s where I flaunt my finest work. Dive in, explore, and prepare to be amazed (or at least mildly impressed)!
+Here’s where I flaunt my finest work in ML/AI applications. Dive in, explore, and prepare to be amazed (or at least mildly impressed)!
 
-- **[Project Name 1](https://github.com/your-username/project-1):** It’s like a Swiss Army knife for [project purpose] – versatile and handy!
-- **[Project Name 2](https://github.com/your-username/project-2):** Where [describe project] meets innovation. Who knew [something cool about the project] could be so exciting?
-- **[Project Name 3](https://github.com/your-username/project-3):** My take on [project type] that’ll make you rethink everything you know about [related topic]!
+- **[🌏 Wander Plan](https://github.com/your-username/project-1):** It’s like a Swiss Army knife for [project purpose] – versatile and handy!
+- **[TubeNote 📝](https://github.com/your-username/project-2):** Where [describe project] meets innovation. Who knew [something cool about the project] could be so exciting?
+- **[Offence Sheild ❎](https://github.com/your-username/project-3):** My take on [project type] that’ll make you rethink everything you know about [related topic]!
 
 ## 📚 Publications & Blog
 
