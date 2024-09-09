@@ -35,10 +35,12 @@ Here’s where I flaunt my finest work. Dive in, explore, and prepare to be amaz
 
 Let’s make the data world a smaller place! Reach out if you want to discuss algorithms, analytics, or just want to swap memes. <br> I’m always open to new ideas, collaborations, and a good old data debate. <br>Feel free to open issues, submit pull requests, or just send a friendly hello!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://twitter.com/aree_yarr_sharu) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharvari-raut-a62a99171/) 
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact.sharuraut7@gmail.com)
+[<img src ="https://img.shields.io/badge/Quora-%23E4405F.svg?&style=for-the-badge&logo=quora&logoColor=red%22">](https://www.quora.com/profile/Sharvari-Raut-5)
+[<img src ="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sharur7)
+
 
 
 ### Happy coding and may your data always be clean! 🚀
