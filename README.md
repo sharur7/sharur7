@@ -28,8 +28,8 @@ Here’s where I flaunt my finest work. Dive in, explore, and prepare to be amaz
 
 ## 📚 Publications & Blog
 
-- **[Blog Post Title 1](https://your-blog.com/post-1):** My two cents on [blog topic] – because who doesn’t love a good data rant?
-- **[Publication Title 2](https://your-research-paper.com):** An academic deep dive into [research topic]. Spoiler: It’s as thrilling as it sounds!
+- [Create Pipeline To Build & Deploy Python Web Application To Azure](https://sharur7.medium.com/create-pipeline-to-build-deploy-python-web-application-to-azure-eb71c14a34b3)
+- [How Walmart Uses Data Science](https://sharur7.medium.com/how-walmart-uses-data-science-e82e707d0a1b)
 
 ## 🌐 Connect with Me
 
