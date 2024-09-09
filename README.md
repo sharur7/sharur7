@@ -4,19 +4,19 @@ You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharur7" alt="sharur7" /> </p> 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Working GIF"/>
+</div>
 
-
-
-![Working gif](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 ## 🛠️ Skills & Expertise
 ![Skills Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
-- **Data Analysis:** Python, R, SQL, Excel (I can make a pivot table dance!)
-- **Machine Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch (Turning data into magic with algorithms!)
-- **Deep Learning:** CNNs, RNNs, Transformers (My models are as deep as my coffee intake!)
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau (Turning boring data into beautiful visuals!)
-- **Cloud Platforms:** AWS, Azure, Google Cloud (Making sure my data doesn’t get lost in the ether!)
-- **DevOps & Tools:** Docker, Git (Keeping everything containerized and version-controlled!)
+- **Data Analysis:** Python, R, SQL, Excel 
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch 
+- **Deep Learning:** CNNs, RNNs, Transformers 
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau 
+- **Cloud Platforms:** AWS, Azure, Google Cloud 
+- **DevOps & Tools:** Docker, Git
 
 ## 🚀 Projects
 
