@@ -14,9 +14,10 @@ You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with
 - **Data Analysis:** Python, R, SQL, Excel 
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch 
 - **Deep Learning:** CNNs, RNNs, Transformers 
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau 
-- **Cloud Platforms:** AWS, Azure, Google Cloud 
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
+- **Cloud Platforms:** AWS, Azure, Google Cloud Platform 
 - **DevOps & Tools:** Docker, Git
+- **Gen AI & LLMs:** Open AI, Langchain, Gemini Pro, GPT-3, RAG 
 
 ## 🚀 Projects
 
