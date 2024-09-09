@@ -7,13 +7,10 @@ You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with
 
 
 
-
-
-
-![Courage the Cowardly Dog](https://media.giphy.com/media/xT9IgJ6A5z1IOUMdcM/giphy.gif)
+![Working gif](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 ## 🛠️ Skills & Expertise
-
+![Skills Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 - **Data Analysis:** Python, R, SQL, Excel (I can make a pivot table dance!)
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch (Turning data into magic with algorithms!)
 - **Deep Learning:** CNNs, RNNs, Transformers (My models are as deep as my coffee intake!)
@@ -36,18 +33,15 @@ Here’s where I flaunt my finest work. Dive in, explore, and prepare to be amaz
 
 ## 🌐 Connect with Me
 
-Let’s make the data world a smaller place! Reach out if you want to discuss algorithms, analytics, or just want to swap memes.
+Let’s make the data world a smaller place! Reach out if you want to discuss algorithms, analytics, or just want to swap memes. <br> I’m always open to new ideas, collaborations, and a good old data debate. <br>Feel free to open issues, submit pull requests, or just send a friendly hello!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
 
-## 🔧 How to Reach Out
 
-I’m always open to new ideas, collaborations, and a good old data debate. Feel free to open issues, submit pull requests, or just send a friendly hello!
-
-Happy coding and may your data always be clean! 🚀
+### Happy coding and may your data always be clean! 🚀
 
 
 ### Some of my GitHub Stats:
