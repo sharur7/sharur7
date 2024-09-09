@@ -1,6 +1,6 @@
 # Hey There<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>🌟 Welcome to Sharvari's Data Science & ML Playground! 🌟
-Hey there! I’m [Your Name], a data enthusiast who spends their days turning numbers into narratives and algorithms into artistry. <br>
-You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with data and make machine-learning models do the cha-cha! 💃
+Hey there! I’m **Sharvari**, a data enthusiast who spends their days turning numbers into narratives and **algorithms** into artistry. <br>
+You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with **data** and make **machine-learning** models do the **cha-cha!** 💃
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharur7" alt="sharur7" /> </p> 
 
