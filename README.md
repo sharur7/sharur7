@@ -37,7 +37,7 @@ Let’s make the data world a smaller place! Reach out if you want to discuss al
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://twitter.com/aree_yarr_sharu) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharvari-raut-a62a99171/) 
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact.sharuraut7@gmail.com)
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact.sharuraut7official@gmail.com)
 [<img src ="https://img.shields.io/badge/Quora-%23E4405F.svg?&style=for-the-badge&logo=quora&logoColor=red%22">](https://www.quora.com/profile/Sharvari-Raut-5)
 [<img src ="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sharur7)
 
