@@ -23,7 +23,7 @@ You’ve stumbled upon my GitHub profile, the digital realm where I wrangle with
 
 Here’s where I flaunt my finest work in ML/AI applications. Dive in, explore, and prepare to be amazed (or at least mildly impressed)!
 
-- **[Wander Plan 🌏](https://wanderplan.streamlit.app/):** Unleash the ultimate travel wizardry with Wander Plan where your dream itinerary is crafted by the genius of AI, making every trip unforgettable!
+- **[Wander Plan 🌏](https://planwander.vercel.app/):** Unleash the ultimate travel wizardry with Wander Plan where your dream itinerary is crafted by the genius of AI, making every trip unforgettable!
 - **[TubeNote 📝](https://tubenote.streamlit.app/):** Summarize any YouTube video effortlessly to get the gist without watching the whole thing!
 - **[Offence Sheild ❎](https://offenceshield.vercel.app/):** Type away and let Offence Shield instantly detect if your sentences are friendly or foul your, real-time guide to keeping conversations respectful!
 
